@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-212 -212 424 424" width="512" height="512">
+<defs>
+<path id="pl" d="M0 0 C -44 -46 -52 -132 0 -198Z"/>
+<path id="pr" d="M0 0 C 44 -46 52 -132 0 -198Z"/>
+</defs>
+<g transform="rotate(17)">
+<g transform="rotate(32)"><use xlink:href="#pl" fill="#571420"/><use xlink:href="#pr" fill="#3F0D17"/></g>
+<g transform="rotate(152)"><use xlink:href="#pl" fill="#571420"/><use xlink:href="#pr" fill="#3F0D17"/></g>
+<g transform="rotate(272)"><use xlink:href="#pl" fill="#571420"/><use xlink:href="#pr" fill="#3F0D17"/></g>
+<g transform="rotate(-28) scale(1.05)"><use xlink:href="#pl" fill="#93283A"/><use xlink:href="#pr" fill="#7B1E2B"/></g>
+<g transform="rotate(92) scale(1.05)"><use xlink:href="#pl" fill="#93283A"/><use xlink:href="#pr" fill="#7B1E2B"/></g>
+<g transform="rotate(212) scale(1.05)"><use xlink:href="#pl" fill="#93283A"/><use xlink:href="#pr" fill="#7B1E2B"/></g>
+<g fill="#E6B3BA" opacity=".85"><circle cx="14" cy="-52" r="3"/><circle cx="-9" cy="-70" r="2.4"/><circle cx="52" cy="18" r="3"/><circle cx="68" cy="-4" r="2.2"/></g>
+<g stroke="#F3DDD6" stroke-width="2.2" fill="none" stroke-linecap="round">
+<path transform="rotate(8)" d="M0 0 Q 10 -52 2 -96"/><path transform="rotate(68)" d="M0 0 Q 10 -46 2 -84"/><path transform="rotate(130)" d="M0 0 Q 10 -52 2 -98"/><path transform="rotate(190)" d="M0 0 Q 10 -44 2 -82"/><path transform="rotate(250)" d="M0 0 Q 10 -52 2 -96"/><path transform="rotate(310)" d="M0 0 Q 10 -46 2 -86"/>
+</g>
+<g fill="#DDA23A">
+<g transform="rotate(8)"><ellipse cx="2" cy="-104" rx="5" ry="14" transform="rotate(28 2 -104)"/></g>
+<g transform="rotate(68)"><ellipse cx="2" cy="-92" rx="5" ry="14" transform="rotate(-22 2 -92)"/></g>
+<g transform="rotate(130)"><ellipse cx="2" cy="-106" rx="5" ry="14" transform="rotate(30 2 -106)"/></g>
+<g transform="rotate(190)"><ellipse cx="2" cy="-90" rx="5" ry="14" transform="rotate(-26 2 -90)"/></g>
+<g transform="rotate(250)"><ellipse cx="2" cy="-104" rx="5" ry="14" transform="rotate(24 2 -104)"/></g>
+<g transform="rotate(310)"><ellipse cx="2" cy="-94" rx="5" ry="14" transform="rotate(-30 2 -94)"/></g>
+<circle r="7"/>
+</g>
+</g>
+</svg>
